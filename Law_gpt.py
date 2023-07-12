@@ -1,5 +1,5 @@
 
-with open('input.txt', 'r', encoding='utf-8') as f:
+with open('ilovepdf_merged.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 
